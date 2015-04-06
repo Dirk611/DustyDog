@@ -1,0 +1,15 @@
+.navbar-custom {
+  margin-bottom: 0;
+  background-color: palegreen;
+}
+.jumbotron {
+  color: white;
+  background-size: auto;
+  background-repeat: none;
+  background-position: center bottom;
+  background-image: url(../images/homepage-hero.jpg);
+}
+
+.jumbotron h1 {
+  text-transform: uppercase;
+}
